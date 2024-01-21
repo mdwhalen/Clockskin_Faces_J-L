@@ -1,1 +1,0 @@
-java -jar c:\\ClockSkinBrowser_v0.10.2.jar
